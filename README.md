@@ -1,6 +1,5 @@
-# Nifty-Books-project-
-
-This is the assignment assigned to me for Front-End Development Intern. 
+# Fyle-internship-assignment
+This is the assignment assigned to me for frontend web development role. 
 
 The assignment is to build a web app using OpenLibrary API to read and display the list of books based on the user input. The results has to be displayed on the basis of the book's subjects, title of the book, or the author's name.
 
